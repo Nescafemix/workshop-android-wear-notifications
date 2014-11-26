@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Example Wear Notifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="a_very_large_text">Oppa Gangnam Style\n Gangnam Style\n\nNajeneun ttasaroun inganjeogin yeoja\nKeopi hanjanui yeoyureul aneun pumgyeok inneun yeoja\nBami omyeon simjangi tteugeowojineun yeoja\nGeureon banjeon inneun yeoja\nOppa Gangnam Style</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_show_message">ShowMessageActivity</string>
+
+</resources>

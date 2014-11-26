@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+        <item>Lo que diga la rubia</item>
+        <item>1 segundo</item>
+        <item>Estoy detrás de ti</item>
+    </string-array>
+</resources>
